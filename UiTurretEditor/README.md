@@ -2,7 +2,7 @@
 
 ![Install Type](https://img.shields.io/badge/Install%20Type-Server%20%26%20Client-lightgrey.svg)
 ![Minimum Avorion Version](https://img.shields.io/badge/Avorion-2.1.3-lightgrey.svg)
-![Tested Avorion Version](https://i.2.1.3-lightgrey.svgmg.shields.io/badge/Last%20Tested-1)
+
 
 
 
@@ -69,13 +69,11 @@ You can remove the heat penalty of a turret by attaching a Liquid Naonite coolin
 ## Install
 
 If you do not know how to manually install mods you should be installing this via the
-Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2017677089
-
+Steam Workshop: 
 If you wish to customize the settings of this mod you may copy `ConfigDefault.lua` to `moddata/DccWeaponEngineering/Config.lua` then any changes you make will persist when this mod gets updated.
 
 MULTIPLAYER NOTE: This must also be installed on the server to work. You know, so you can't just
-level up turrets without everyone else being able to as well. If installed on the server, clients are not required to install it if they do not intend to use it.
-
+level up turrets without everyone else being able to as well.so please install on on the server side.
 ## Usage
 
 While in one of your ships use the chat command `/tmod` this will attach the
@@ -83,7 +81,6 @@ TurretUiEditor Bay to your ship, adding an icon to open the main window
 in the top right corner of the screen. It looks like a little turret with a
 wrench on top of it.
 
-![Example Image]()
 
 1) Drag the turret you want to upgrade to the big box.
 
