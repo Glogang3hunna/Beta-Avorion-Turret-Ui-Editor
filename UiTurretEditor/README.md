@@ -132,5 +132,5 @@ is not perfect.
 ## Future Plans
 
 Make it a system upgrade chip that drops from combat/scavving instead of the
-chat command to attach it to your ship.
+chat command to attach it to a ship.
 
