@@ -107,30 +107,4 @@ wrench on top of it.
 
 # Notes
 
-* Targeting only costs money because I believe if you are paying the gunners to
-sit there then they can do their one job of pointing the damn gun for you.
-
-* The colour you set will change after clicking the button. That is because the
-code takes the colour you choose, and then modifies it a bit to *try* and
-produce laser beams that won't look as stupid as the colour you picked.
-
-* Item rarity and tech level are both used as part of the math to try and
-keep the usage of the Weapons Bay balanced. To get a good upgrade you are going
-to have to sacrifice good parts.
-
-* If you think a turret disappeared, double and triple check your inventory
-to be sure it did not stack with another. Avorion does a little bit of a dumb
-with the inventory where it stacks items after rounding their values, so if
-a turret is really close to another one in stats but not exact it can still be
-stacked. To combat this problem, every time a turret is upgraded it will have
-a Mark Number added to the name. "Double Mining Mk 2 Turret" means this is a
-turret you have upgraded twice, but I've totally stacked Mk 2 turrets before. It
-is not perfect.
-
-
-
-## Future Plans
-
-Make it a system upgrade chip that drops from combat/scavving instead of the
-chat command to attach it to a ship.
-
+* If there are any issues please pm me on discord @GLOGang3hunna#7131
