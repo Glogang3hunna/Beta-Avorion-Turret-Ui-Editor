@@ -8,7 +8,7 @@
 
 
 
-![Example Image]()
+![Example Image](https://i.imgur.com/imF5MLj.png)
 
 You select the turret you want to upgrade and drag it to the big box. Then you
 can select up to 5 additional turrets to destroy and drag them to the smaller
