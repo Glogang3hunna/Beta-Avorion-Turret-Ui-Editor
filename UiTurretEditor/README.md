@@ -1,4 +1,4 @@
-# Weapon Engineering: Avorion Turret Editor
+# [beta]TurretUIEditor: Avorion TurretUIEditor
 
 ![Install Type](https://img.shields.io/badge/Install%20Type-Server%20%26%20Client-lightgrey.svg)
 ![Minimum Avorion Version](https://img.shields.io/badge/Avorion-2.1.3-lightgrey.svg)
