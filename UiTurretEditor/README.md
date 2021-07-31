@@ -4,7 +4,8 @@
 ![Minimum Avorion Version](https://img.shields.io/badge/Avorion-2.1.3-lightgrey.svg)
 
 
-
+Remake/Remade by Glogang
+All credit goes to Darkconsole!
 
 
 
