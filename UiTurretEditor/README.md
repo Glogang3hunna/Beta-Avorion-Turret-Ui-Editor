@@ -108,4 +108,10 @@ wrench on top of it.
 
 # Notes
 
+
 * If there are any issues please pm me on discord @GLOGang3hunna#7131
+
+
+
+# Join My Discord
+https://discord.gg/5PRc8KB3f4
