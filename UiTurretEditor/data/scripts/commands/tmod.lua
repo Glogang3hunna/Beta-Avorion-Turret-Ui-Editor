@@ -1,18 +1,18 @@
 
 function execute(PlayerID, Command, Action, ...)
 
-	local ScriptFile = "mods/DccTurretEditor/Commands/TurretModding"
+	local ScriptFile = "mods/UiTurretEditor/Commands/ui"
 
 	if(not onServer())
 	then return end
 
 	if(Player(PlayerID):hasScript(ScriptFile))
 	then
-		print("[DccTurretEditor] Clearing Old Instance...")
+		print("[UiTurretEditor] Clearing Old Instance...")
 		Player(PlayerID):removeScript(ScriptFile)
 	end
 
-	print("[DccTurretEditor] Adding New Instance...")
+	print("[UiTurretEditor] Adding New Instance...")
 	Player(PlayerID):addScriptOnce(ScriptFile,Action,...)
 
 	return 0, "", ""
